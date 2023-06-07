@@ -1,6 +1,6 @@
 # MySQL-backup-shell-script
 
-MySQL Backup shell script using Mydumper Open-source tool. 
+MySQL Backup shell script using [Mydumper](https://github.com/mydumper/mydumper) Open-source tool. 
 
 Upload the backuped zip to AWS S3. 
 
