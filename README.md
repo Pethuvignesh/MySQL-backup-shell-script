@@ -9,5 +9,6 @@ _Note_ - This script tested in Ubuntu 22 LTS
 **Prerequisites**
 
 1. Install AWS CLI using _apt install awscli_
+2. AWS AccessKey & Secret Key needed to upload it the S3 bucket.
 
-AWS AccessKey & Secret Key needed to upload it the S3 bucket.
+
