@@ -2,7 +2,7 @@
 
 MySQL Backup shell script using [Mydumper](https://github.com/mydumper/mydumper) Open-source tool. 
 
-Upload the backuped zip to AWS S3. 
+Upload the backup zip to AWS S3. 
 
 _Note_ - This script tested in Ubuntu 22 LTS
 
