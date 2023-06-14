@@ -8,4 +8,4 @@ username="username"
 password="password"
 
 # Execute the myloader command
-myloader --directory="$backup_directory" --verbose=3 --host="$hostname" --port="$port" --user="$username" --password="$password"
+myloader --directory="$backup_directory" --threads 8 --queries-per-transaction 50000 --verbose=3 --host="$hostname" --port="$port" --user="$username" --password="$password"
